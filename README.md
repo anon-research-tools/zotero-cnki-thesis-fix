@@ -6,6 +6,15 @@
 - 现象：批量勾选保存后，条目类型是「学位论文」，但「大学」「日期」为空；单篇打开详情页再保存有时正常
 - 不适用：知网全文下载被「拼图校验」拦截（见下文「PDF 下载」）
 
+## 下载
+
+- 仓库：https://github.com/anon-research-tools/zotero-cnki-thesis-fix
+- 单文件（raw）：https://raw.githubusercontent.com/anon-research-tools/zotero-cnki-thesis-fix/main/CNKI.js
+- 整个压缩包：https://codeload.github.com/anon-research-tools/zotero-cnki-thesis-fix/zip/refs/heads/main
+- jsDelivr 镜像：https://cdn.jsdelivr.net/gh/anon-research-tools/zotero-cnki-thesis-fix@main/CNKI.js
+
+如果 `github.com` 网页打不开，用上面的 raw / codeload / jsDelivr 链接即可。
+
 ## 原理
 
 Zotero 抓知网分三层，问题出在第二层：
