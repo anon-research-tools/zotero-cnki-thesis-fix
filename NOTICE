@@ -1,0 +1,8 @@
+This repository contains a modified copy of CNKI.js from
+https://github.com/l0o0/translators_CN (AGPL-3.0).
+
+Original: CNKI.js, lastUpdated 2026-09-29 02:39:33
+Modifications: batch thesis metadata fix (see README and diff).
+
+The modified translator remains licensed under AGPL-3.0.
+Not affiliated with Zotero or CNKI.
